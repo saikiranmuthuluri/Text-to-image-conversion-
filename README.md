@@ -4,6 +4,8 @@
 
 This project demonstrates the use of Stable Diffusion, a state-of-the-art generative AI model, for creating high-quality images from natural language text prompts. By leveraging the power of Hugging Face's diffusers library and pre-trained models, this project allows users to generate detailed and photorealistic images with minimal effort.
 
+Developed sentiment classification models using TF-IDF(**Term Frequency – Inverse Document Frequency**), Logistic Regression, and Naive Bayes algorithms, optimizing performance and achieving strong evaluation metrics. 
+
 
 **Key Features:**
 
